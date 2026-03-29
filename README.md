@@ -159,6 +159,6 @@ This project is designed to be:
 
 Perfect for demonstrating **AI & ML fundamentals in a real-world scenario**.
 
-
+# Author : Ishant Kumar Sahu
 
 🚀 Made with curiosity and learning spirit!
