@@ -31,17 +31,13 @@ How to use it (2 minutes setup) ⏱️
 
 4.Using the App:
    1. Open app → Looks like this:
-   ┌─────────────────────────────────────┐
-   │  Student Performance Predictor      │
-   │                                     │
-   │  Study Hours    [  ]                │
-   │  Attendance     [  ]                │
-   │  Sleep Hours    [  ]                │
-   │                                     │
-   │  [Predict Marks]  [Show Graph]      │
-   │                                     │
-   └─────────────────────────────────────┘
 
+   Student Performance Predictor                                            
+    Study Hours    [  ]                
+    Attendance     [  ]                
+    Sleep Hours    [  ]                
+  [Predict Marks]  [Show Graph]      
+ 
    2. Type numbers → Click Predict
    3. Boom! 🎉 Get marks + advice
    4. Example:
